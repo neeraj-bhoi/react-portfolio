@@ -4,6 +4,7 @@ import AboutMe from "./components/AboutMe";
 import MySkills from "./components/MySkills";
 import Skills from "./components/Skills";
 import Work from "./components/Work";
+import Contact from "./components/Contact";
 function App() {
   return (
     <>
@@ -12,6 +13,7 @@ function App() {
       <MySkills />
       <Skills />
       <Work />
+      <Contact />
     </>
   );
 }
